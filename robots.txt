@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://macotonalds.github.io/sitemap.xml 
